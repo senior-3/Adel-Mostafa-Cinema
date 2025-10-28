@@ -42,15 +42,6 @@ Primary goals: maintainable architecture, secure DTO-based API surface, and clea
 
 ---
 
-## 📁 Project Structure
-/CinemaBooking.Api
-/CinemaBooking.Core
-/CinemaBooking.Infrastructure
-/CinemaBooking.Services
-/CinemaBooking.Tests
-
----
-
 ## 🔧 Setup Instructions
 ```bash
 # 1. Clone
